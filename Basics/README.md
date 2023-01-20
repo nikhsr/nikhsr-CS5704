@@ -3,3 +3,6 @@
 Nikhil Ram nikhilram@vt.edu
 
 "Hello GitHub!"
+
+
+Standup Participant "Aseem Khandelwal aseemkhandelwal@vt.edu"
