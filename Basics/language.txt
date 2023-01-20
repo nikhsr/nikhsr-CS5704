@@ -1,0 +1,7 @@
+Discussed with Aseem Khandelwal aseemkhandelwal@vt.edu
+
+What is your favorite programming language? Why?
+    It is Java. Because it is structured and object oriented programming language.
+
+Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+    Yes I am most exprienced in Java. Though I use javascript for some of the UI based projects.
